@@ -1,0 +1,6 @@
+# Add your comments here, one per line
+# These will be randomly selected when commenting on posts
+# You can use emojis, but they may be removed depending on your settings
+
+This is first comment!
+This is second comment.
