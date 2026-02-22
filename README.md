@@ -1,6 +1,6 @@
 # SocialOzzy - Instagram Automation
 
-A professional Python application for automating Instagram interactions.
+Python application for automating Instagram interactions.
 
 ## Features
 
@@ -144,14 +144,6 @@ These can be adjusted in `socialozzy/config.py`.
 - Random delays are added to mimic human behavior
 - Never commit your `.env` file or expose your credentials
 
-## Development
-
-### Adding New Actions
-
-1. Create a new file in `src/actions/`
-2. Implement your action function
-3. Export it in `src/actions/__init__.py`
-4. Use it in `src/__main__.py`
 
 ### Modifying Comments
 
